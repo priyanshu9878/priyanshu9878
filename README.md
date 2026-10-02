@@ -51,7 +51,7 @@ Agentic RAG system with async PDF ingestion, semantic search (768-dim embeddings
 
 ### 📈 Achievements
 
-- Solved **300+** Data Structures & Algorithms problems
+- Solved **400+** Data Structures & Algorithms problems
 
 ---
 
