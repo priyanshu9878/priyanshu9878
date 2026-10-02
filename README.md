@@ -42,7 +42,9 @@ Agentic RAG system with async PDF ingestion, semantic search (768-dim embeddings
 
 ### 🏆 Certifications
 
-- **Retrieval-Augmented Generation for Enhanced AI Outputs** – IBM SkillsBuild *(Aug 2026)*
+- **[Retrieval-Augmented Generation for Enhanced AI Outputs](https://www.credly.com/badges/19abc379-411f-47bd-82d6-7353f8aca128/public_url)** – IBM SkillsBuild *(Aug 2026)*  
+  [![Credly Badge](https://img.shields.io/badge/Credly-Verified-00B4B6?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/19abc379-411f-47bd-82d6-7353f8aca128/public_url)
+
 - **AWS Foundations: Getting Started with the AWS Cloud Essentials** – AWS Training & Certification *(Aug 2026)*
 
 ---
