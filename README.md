@@ -13,7 +13,7 @@
 
 ### 📄 Resume
 
-👉 **[View / Download My Resume](./Priyanshu_Resume.pdf)**
+👉 **[View / Download My Resume](./Priyanshu_Resume.pdf.pdf)**
 
 ---
 
